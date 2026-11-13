@@ -6,8 +6,15 @@ FasoCompta Bureau est la version bureau de FasoCompta : caisse (POS), stock, cli
 
 ## Téléchargement
 
-- **Installeur Windows (v1.0.0)** : [FasoCompta-Bureau-Setup-1.0.0.exe](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.0/FasoCompta-Bureau-Setup-1.0.0.exe) (118 088 439 octets — SHA-256 : `51e18edb69cbe87e943aa94621d2524ce0f51285a41a5f60939a7b21891e54ca`)
-- **Guide d'utilisation (PDF)** : [Guide-FasoCompta-Bureau.pdf](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.0/Guide-FasoCompta-Bureau.pdf)
+- **Installeur Windows (v1.0.1)** : [FasoCompta-Bureau-Setup-1.0.1.exe](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.1/FasoCompta-Bureau-Setup-1.0.1.exe) (118 392 665 octets — SHA-256 : `973622abac009cbfe63791f89a7d585374bf47a112ecb5ebc247b1e501612b08`)
+- **Guide d'utilisation (PDF)** : [Guide-FasoCompta-Bureau.pdf](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.1/Guide-FasoCompta-Bureau.pdf)
+
+## Nouveautés de la v1.0.1
+
+- Connexion **100 % locale** : identifiant + mot de passe ou code PIN, fini le bouton Google qui n'avait pas sa place hors-ligne
+- Bouton **« Découvrir la démo »** dès l'écran de connexion
+- Menu nettoyé des entrées réservées au site web
+- Polices intégrées dans l'application : affichage identique partout, même sans internet
 
 ## Installation
 
@@ -34,4 +41,4 @@ Plusieurs postes dans la même boutique, **sans internet** : un poste principal,
 
 ---
 
-© Mahamadou Boubacar Maïga — Tous droits réservés. Le code source de FasoCompta Bureau n'est pas publié dans ce dépôt ; seul l'installeur et le guide y sont distribués.
+© Mahamadou Boubacar Maïga — Tous droits réservés. Le code source de FasoCompta Bureau n'est pas publié dans ce dépôt ; seuls l'installeur et le guide y sont distribués.
