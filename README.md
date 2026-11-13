@@ -6,12 +6,14 @@ FasoCompta Bureau est la version bureau de FasoCompta : caisse (POS), stock, cli
 
 ## Téléchargement
 
-- **Installeur Windows (v1.0.2)** : [FasoCompta-Bureau-Setup-1.0.2.exe](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.2/FasoCompta-Bureau-Setup-1.0.2.exe) (118 409 870 octets — SHA-256 : `5fbfb5be9e9d491780c0cad600acc992748573d164f894ef4d134964a65efc0f`)
-- **Guide d'utilisation (PDF)** : [Guide-FasoCompta-Bureau.pdf](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.2/Guide-FasoCompta-Bureau.pdf)
+- **Installeur Windows (v1.0.3)** : [FasoCompta-Bureau-Setup-1.0.3.exe](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.3/FasoCompta-Bureau-Setup-1.0.3.exe) (118 411 366 octets — SHA-256 : `307f9bb5f38ceff22afe0fae056c49faffb3e743715356eaa3768aeb4ae508af`)
+- **Guide d'utilisation (PDF)** : [Guide-FasoCompta-Bureau.pdf](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.3/Guide-FasoCompta-Bureau.pdf)
 
-## Nouveautés de la v1.0.2
+## Nouveautés de la v1.0.3
 
-Version de professionnalisation (audit complet du 13/11/2026) :
+- **Licences infalsifiables** : les clés d'activation sont maintenant signées (Ed25519) — l'application ne contient qu'une clé publique de vérification, impossible de fabriquer une clé sans la clé privée du vendeur. Les activations déjà enregistrées restent honorées ; les nouvelles clés sont plus longues et se collent (copier-coller).
+
+Et tout le contenu de la v1.0.2 (audit de professionnalisation du 13/11/2026) :
 
 - **Sauvegardes fiables et vérifiées** : chaque sauvegarde est une image complète et cohérente de la base, contrôlée avant d'être annoncée — restauration testée de bout en bout
 - **Multi-postes durci** : rôles vérifiés côté serveur, inscription des postes par code d'appairage (rôle caissier par défaut), sessions de 12 h, reconnexion automatique, rafraîchissement des données entre postes en temps réel
