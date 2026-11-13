@@ -6,15 +6,19 @@ FasoCompta Bureau est la version bureau de FasoCompta : caisse (POS), stock, cli
 
 ## Téléchargement
 
-- **Installeur Windows (v1.0.1)** : [FasoCompta-Bureau-Setup-1.0.1.exe](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.1/FasoCompta-Bureau-Setup-1.0.1.exe) (118 392 665 octets — SHA-256 : `973622abac009cbfe63791f89a7d585374bf47a112ecb5ebc247b1e501612b08`)
-- **Guide d'utilisation (PDF)** : [Guide-FasoCompta-Bureau.pdf](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.1/Guide-FasoCompta-Bureau.pdf)
+- **Installeur Windows (v1.0.2)** : [FasoCompta-Bureau-Setup-1.0.2.exe](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.2/FasoCompta-Bureau-Setup-1.0.2.exe) (118 409 870 octets — SHA-256 : `5fbfb5be9e9d491780c0cad600acc992748573d164f894ef4d134964a65efc0f`)
+- **Guide d'utilisation (PDF)** : [Guide-FasoCompta-Bureau.pdf](https://github.com/mahamadoubmaiga2025-hub/fasocompta-bureau/releases/download/v1.0.2/Guide-FasoCompta-Bureau.pdf)
 
-## Nouveautés de la v1.0.1
+## Nouveautés de la v1.0.2
 
-- Connexion **100 % locale** : identifiant + mot de passe ou code PIN, fini le bouton Google qui n'avait pas sa place hors-ligne
-- Bouton **« Découvrir la démo »** dès l'écran de connexion
-- Menu nettoyé des entrées réservées au site web
-- Polices intégrées dans l'application : affichage identique partout, même sans internet
+Version de professionnalisation (audit complet du 13/11/2026) :
+
+- **Sauvegardes fiables et vérifiées** : chaque sauvegarde est une image complète et cohérente de la base, contrôlée avant d'être annoncée — restauration testée de bout en bout
+- **Multi-postes durci** : rôles vérifiés côté serveur, inscription des postes par code d'appairage (rôle caissier par défaut), sessions de 12 h, reconnexion automatique, rafraîchissement des données entre postes en temps réel
+- **Base de données renforcée** : migrations versionnées avec sauvegarde préalable, index de performance, écritures simultanées sans perte (testé : 600/600)
+- **Écran Diagnostic** intégré (versions, état de la base et du serveur, dernière sauvegarde) avec export pour le support
+- Secteurs : **devis ouverts pour le Transport, caisse ouverte pour les Services**
+- Connexion 100 % locale (identifiant + mot de passe/PIN, sans Google), bouton « Découvrir la démo », polices intégrées, aucun appel réseau — 100 % hors-ligne réel, vérifié
 
 ## Installation
 
